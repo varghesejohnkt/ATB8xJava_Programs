@@ -3,7 +3,6 @@ package sept.task_13_1;
 public class task1table {
     public static void main(String[] args){
         int num =10;
-        char line = '\n';
         System.out.printf("%d * %d = %d %n",num ,1 ,num);
         System.out.printf("%d * %d = %d %n",num ,2 ,num * 2);
         System.out.printf("%d * %d = %d %n",num ,3 ,num * 3);
